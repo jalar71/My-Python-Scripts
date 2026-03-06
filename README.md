@@ -1,6 +1,5 @@
 # Simple Python Word Counter
 This python script can count the characters and the words in your any given paragraph.
-![Program Output](ScreenShot_Python_WordCounter.png)
 <img src="ScreenShot_Python_WordCounter.png" width="600">
 ## Why did I create this? 🤔
 - I was writing a research paper 📄 and didn't have internet connection and I was not using Microsoft Word.
